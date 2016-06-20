@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQStudy", "MSMQStudy\MSMQStudy.csproj", "{64231A6C-62CB-4636-9975-82F6C2D6F964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQReceive", "MSMQReceive\MSMQReceive.csproj", "{850FEF4F-D4A0-4301-AB2E-722242D09A63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQLib", "MSMQLib\MSMQLib.csproj", "{4C6807AA-9B62-4B3A-9563-9645B45F8C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender\Sender.csproj", "{287F0BB7-99B0-41BD-8FF7-780DD8B10DE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "Receiver\Receiver.csproj", "{540C7F4F-92B7-4057-A40A-34AD311E1BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvalidSender", "InvalidSender\InvalidSender.csproj", "{8FCFAF5B-5D94-453C-B28D-5A27ED569D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64231A6C-62CB-4636-9975-82F6C2D6F964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64231A6C-62CB-4636-9975-82F6C2D6F964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64231A6C-62CB-4636-9975-82F6C2D6F964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64231A6C-62CB-4636-9975-82F6C2D6F964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850FEF4F-D4A0-4301-AB2E-722242D09A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850FEF4F-D4A0-4301-AB2E-722242D09A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850FEF4F-D4A0-4301-AB2E-722242D09A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850FEF4F-D4A0-4301-AB2E-722242D09A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C6807AA-9B62-4B3A-9563-9645B45F8C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6807AA-9B62-4B3A-9563-9645B45F8C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6807AA-9B62-4B3A-9563-9645B45F8C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6807AA-9B62-4B3A-9563-9645B45F8C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{287F0BB7-99B0-41BD-8FF7-780DD8B10DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287F0BB7-99B0-41BD-8FF7-780DD8B10DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287F0BB7-99B0-41BD-8FF7-780DD8B10DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287F0BB7-99B0-41BD-8FF7-780DD8B10DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540C7F4F-92B7-4057-A40A-34AD311E1BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540C7F4F-92B7-4057-A40A-34AD311E1BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540C7F4F-92B7-4057-A40A-34AD311E1BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540C7F4F-92B7-4057-A40A-34AD311E1BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FCFAF5B-5D94-453C-B28D-5A27ED569D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCFAF5B-5D94-453C-B28D-5A27ED569D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCFAF5B-5D94-453C-B28D-5A27ED569D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCFAF5B-5D94-453C-B28D-5A27ED569D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
